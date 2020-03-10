@@ -2,9 +2,14 @@ body, html {
   height: 100%;
 }
 
-.bg {
-  /* The image used */
-  background-image: url("http://ThecompleatAngler.github.io/eventbanner.jpg");
+.main-header {
+    background-image: url(../eventbanner.jpg;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
 
   /* Full height */
   height: 100%;
