@@ -3,12 +3,17 @@ html{
     margin: 0;
 }
 
-video {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 99%;
-    min-height: 99%;
+.bg {
+ 
+  background-image: url("https://io.uitdatabank.be/images/05592a19-e6e7-4fa5-b346-ee03e96e835e.jpeg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .content {
