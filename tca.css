@@ -1,9 +1,10 @@
-body, html {
-  height: 100%;
+html{
+    padding: 0;
+    margin: 0;
 }
 
 .main-header {
-    background-image: url(../eventbanner.jpg;
+    background-image: url(https://thecompleatangler.github.io//eventbanner.jpg;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
